@@ -1,4 +1,4 @@
-# Layer-wise Model Swapping
+# Layer-wise Swapping
 
 Merge safety-tuned and multilingual-tuned LLMs by analyzing per-layer/module weight changes.
 
