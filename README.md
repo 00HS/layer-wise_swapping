@@ -1,6 +1,8 @@
 # Layer-wise Swapping
 
 Merge safety-tuned and multilingual-tuned LLMs by analyzing per-layer/module weight changes.
+<img width="815" height="392" alt="ours" src="https://github.com/user-attachments/assets/f5f6f4db-5f21-46da-a18c-3fb0b2d9f813" />
+
 
 ## Usage
 
